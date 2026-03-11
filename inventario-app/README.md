@@ -1,59 +1,33 @@
-# InventarioApp
+# Sistema de Inventarios
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.1.
+Aplicación web para la gestión de inventarios desarrollada con **Spring Boot** y **Angular**.  
+Permite administrar productos y controlar el stock mediante operaciones CRUD.
 
-## Development server
+## Tecnologías utilizadas
 
-To start a local development server, run:
+- Java
+- Spring Boot
+- Angular
+- TypeScript
+- MySQL
+- Maven
 
-```bash
-ng serve
-```
+## Funcionalidades
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- Registrar productos
+- Editar productos
+- Eliminar productos
+- Listar productos
+- Gestión de inventario
 
-## Code scaffolding
+## Instalación
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+1. Clonar el repositorio
+2. Instalar dependencias
+3. Ejecutar el backend con Spring Boot
+4. Ejecutar el frontend con Angular
 
-```bash
-ng generate component component-name
-```
+## Autor
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Jeisson Rodríguez  
+Estudiante de desarrollo de software
